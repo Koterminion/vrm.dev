@@ -1,5 +1,5 @@
 ---
-title: "Check BlandShape Normal"
+title: "Check BlendShape Normal"
 date: 2020-11-16T11:21:12+09:00
 weight: 4
 tags: ["unity", "fbx"]
